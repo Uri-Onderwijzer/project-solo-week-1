@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height: 10vh;
+    font-size: xx-large;
+    justify-content: center;
+    display: flex;
+}
+
+.welkom{
+    font-size: xx-large;
+    text-align: center;
+}
+
+p{
+    margin-left: 5vw;
+    margin-right: 5vw;
+    font-size: x-large;
+}
+
+.homemenu{
+    list-style-type: none;
+    color: cadetblue;
+    font-size: x-large;
+    margin-left: 1vw;
+}
